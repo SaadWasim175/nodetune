@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
+    "axios": "^1.10.0",
+    "chalk": "^4.1.2",
+    "express": "^5.1.0",
+    "inquirer": "^8.2.6",
+    "open": "^10.2.0",
+    "ora": "^8.2.0",
+    "yt-search": "^2.13.1"
+  }
+}
